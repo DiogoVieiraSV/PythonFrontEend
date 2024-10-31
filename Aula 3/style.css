@@ -1,0 +1,43 @@
+h1{
+    font-size: 20mm;
+    padding-left: 7cm;
+    margin-right: 23px;
+    
+    
+    color: greenyellow
+    
+}
+body{
+    background-image: url();
+    
+    margin: 100px;
+    
+}
+img{
+    width: 500px;
+    padding-left: 7cm;
+    height: 300px;
+    
+    
+}
+
+h2{
+    font-size: 23mm;
+    text-align: center;
+    color:  rgb(134, 134, 255) 
+}
+h3{
+    font-size: 23mm;
+    text-align: center;
+    color: rgb(177, 81, 81)
+}
+h4{
+    font-size: 23mm;
+    text-align: center;
+    color: rgb(252, 211, 135)
+}
+footer{
+    padding-left: 7cm;
+    text-align: center;
+    
+}
